@@ -42,3 +42,5 @@
 /config/sprockets-manifest.json
 
 /vendor/bundle
+
+/.next
