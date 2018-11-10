@@ -1,4 +1,9 @@
 {
+  "scripts": {
+    "dev": "next -p 3001",
+    "build": "next build",
+    "start": "next start -p 3001"
+  },
   "dependencies": {
     "next": "^7.0.2",
     "react": "^16.6.1",
